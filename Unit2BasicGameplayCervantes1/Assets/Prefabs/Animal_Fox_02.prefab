@@ -693,10 +693,10 @@ GameObject:
   - component: {fileID: 6111179801689700979}
   - component: {fileID: 5746672493253822824}
   - component: {fileID: 5472813944594104966}
-  - component: {fileID: 6015252770083416538}
+  - component: {fileID: 1850141046}
   m_Layer: 0
   m_Name: Animal_Fox_02
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -786,7 +786,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.10198021, y: 0.3514578, z: 0.34125254}
   m_Center: {x: -0.0029788972, y: 0.15520601, z: 0.010568082}
---- !u!114 &6015252770083416538
+--- !u!114 &1850141046
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
